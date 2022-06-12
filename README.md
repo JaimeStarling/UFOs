@@ -5,7 +5,8 @@ With added filters for searching multiple criteria, we are determining if the we
 
 ## Results:
 
-- A warning that the current data used for this webpage is far limited in comparison to what’s planned. The dataset covers January 1 through January 13, 2010, and only in the United States. Type in a later date and there will not be a result. [image data search]
+- A warning that the current data used for this webpage is far limited in comparison to what’s planned. The dataset covers January 1 through January 13, 2010, and only in the United States. Type in a later date and there will not be a result. 
+![This is an image](https://github.com/JaimeStarling/UFOs/blob/main/Date%20Search.png)
 
 - At this time, the search works mostly by entering one item for filtering, then another, but only if results show after the first filter. If you search for the city of Fresno, you will get one result (for now) and so you do not need to filter out shapes or anything else. If you search for the city of San Diego, you get multiple results, and can then sort for something else within those. [san diego]
 
