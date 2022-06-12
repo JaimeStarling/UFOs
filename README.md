@@ -9,7 +9,9 @@ With added filters for searching multiple criteria, we are determining if the we
 
 ![This is an image](https://github.com/JaimeStarling/UFOs/blob/main/Date%20Search.png)
 
-- At this time, the search works mostly by entering one item for filtering, then another, but only if results show after the first filter. If you search for the city of Fresno, you will get one result (for now) and so you do not need to filter out shapes or anything else. If you search for the city of San Diego, you get multiple results, and can then sort for something else within those. [san diego]
+- At this time, the search works mostly by entering one item for filtering, then another, but only if results show after the first filter. If you search for the city of Fresno, you will get one result (for now) and so you do not need to filter out shapes or anything else. If you search for the city of San Diego, you get multiple results, and can then sort for something else within those.
+
+![This is an image](https://github.com/JaimeStarling/UFOs/blob/main/san%20diego%20results.png)
 
 ## Summary: 
 
